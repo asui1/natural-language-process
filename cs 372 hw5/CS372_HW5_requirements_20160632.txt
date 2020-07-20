@@ -1,0 +1,7 @@
+I use some apis that might not be installed.
+
+
+beautifulsoup4: pip3 install beautifulsoup4
+requests: pip3 install requests
+sklearn: pip3 install --user scikit-learn
+
